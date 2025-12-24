@@ -35,7 +35,7 @@ The application also supports **Dark Mode** with theme persistence.
 ---
 
 ## 📁 Project Structure
-
+```
 Urlshortner/
 ├── backend/
 │ ├── config/
